@@ -1,7 +1,7 @@
 
 Timetable Webpage
 
-Author: John Doe
+Author: Zephaniah Kamau 
 Date: 27/03/2025
 
 Description
