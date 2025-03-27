@@ -1,4 +1,3 @@
-
 Timetable Webpage
 
 Author: Zephaniah Kamau 
